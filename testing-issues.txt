@@ -1,0 +1,22 @@
+username:zensar.com
+password: Zensar@1234
+Email: no-reply@zensar.com
+mongoDBconnectionURL:MongoDB:username:password//localhost:27017/test
+username: zenadmin
+password: ZenAdmin@1234
+s3BucketName: zensarS3Bucket-us-east-1
+mySqlConnection: mySql:username:password//localhost:3309/test
+zensar.apk
+zensar.IPA
+pass: Zensar@1234
+password: Zensar@1234
+mailKey: 1221302qnw1lo2310312h1043
+key: String@12342
+passKey: 123432@i1001
+sslKey: /etc/ssl/ssl.key
+sslPassPhrase: Temp!32131
+apkKey:123213
+
+
+
+
